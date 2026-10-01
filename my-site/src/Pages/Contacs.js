@@ -1,0 +1,15 @@
+function Contacs() {
+  return (
+    <div>
+      <h1>Контакты</h1>
+    <p>Как с нами связатся:</p>
+    <ul>
+        <li>Номер телефона: +7(900)-156-24-46</li>
+        <li>Email: GameforGamers@gmail.com</li>
+        <li>Адрес офиса: Москва,ул.Ленина</li>
+    </ul>
+    </div>
+  );
+}
+
+export default Contacs;
