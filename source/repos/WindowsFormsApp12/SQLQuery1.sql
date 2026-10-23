@@ -1,0 +1,1 @@
+﻿Insert into [dbo].[User] (Login,Password,Role) values ('Oleg15','12346','Admin'),('dashaP','1245','User')
