@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\\u041C\u0430\u043B\u0430\u044F \u0430\u043A\u0430\u0434\u0435\u043C\u0438\u044F\\source\\repos\\WindowsFormsApp12\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{29FA456C-EB1E-4461-B189-4A8F6AC2A63C}|WindowsFormsApp12\\WindowsFormsApp12.csproj|c:\\users\\\u043C\u0430\u043B\u0430\u044F \u0430\u043A\u0430\u0434\u0435\u043C\u0438\u044F\\source\\repos\\windowsformsapp12\\windowsformsapp12\\datacontext\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29FA456C-EB1E-4461-B189-4A8F6AC2A63C}|WindowsFormsApp12\\WindowsFormsApp12.csproj|solutionrelative:windowsformsapp12\\datacontext\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{29FA456C-EB1E-4461-B189-4A8F6AC2A63C}|WindowsFormsApp12\\WindowsFormsApp12.csproj|C:\\Users\\\u041C\u0430\u043B\u0430\u044F \u0430\u043A\u0430\u0434\u0435\u043C\u0438\u044F\\source\\repos\\WindowsFormsApp12\\windowsformsapp12\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{29FA456C-EB1E-4461-B189-4A8F6AC2A63C}|WindowsFormsApp12\\WindowsFormsApp12.csproj|solutionrelative:windowsformsapp12\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{29FA456C-EB1E-4461-B189-4A8F6AC2A63C}|WindowsFormsApp12\\WindowsFormsApp12.csproj|C:\\Users\\\u041C\u0430\u043B\u0430\u044F \u0430\u043A\u0430\u0434\u0435\u043C\u0438\u044F\\source\\repos\\WindowsFormsApp12\\windowsformsapp12\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{29FA456C-EB1E-4461-B189-4A8F6AC2A63C}|WindowsFormsApp12\\WindowsFormsApp12.csproj|solutionrelative:windowsformsapp12\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29FA456C-EB1E-4461-B189-4A8F6AC2A63C}|WindowsFormsApp12\\WindowsFormsApp12.csproj|C:\\Users\\\u041C\u0430\u043B\u0430\u044F \u0430\u043A\u0430\u0434\u0435\u043C\u0438\u044F\\source\\repos\\WindowsFormsApp12\\windowsformsapp12\\datacontext\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29FA456C-EB1E-4461-B189-4A8F6AC2A63C}|WindowsFormsApp12\\WindowsFormsApp12.csproj|solutionrelative:windowsformsapp12\\datacontext\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{29FA456C-EB1E-4461-B189-4A8F6AC2A63C}|WindowsFormsApp12\\WindowsFormsApp12.csproj|C:\\Users\\\u041C\u0430\u043B\u0430\u044F \u0430\u043A\u0430\u0434\u0435\u043C\u0438\u044F\\source\\repos\\WindowsFormsApp12\\windowsformsapp12\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -26,11 +26,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\\u041C\u0430\u043B\u0430\u044F \u0430\u043A\u0430\u0434\u0435\u043C\u0438\u044F\\source\\repos\\WindowsFormsApp12\\WindowsFormsApp12\\User.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp12\\User.cs",
@@ -38,30 +38,28 @@
               "RelativeToolTip": "WindowsFormsApp12\\User.cs",
               "ViewState": "AQIAACsAAAAAAAAAAAAewD4AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-20T05:33:27.225Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-20T05:33:27.225Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "User.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\Users\\\u041C\u0430\u043B\u0430\u044F \u0430\u043A\u0430\u0434\u0435\u043C\u0438\u044F\\source\\repos\\WindowsFormsApp12\\WindowsFormsApp12\\User.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp12\\User.cs",
               "ToolTip": "C:\\Users\\\u041C\u0430\u043B\u0430\u044F \u0430\u043A\u0430\u0434\u0435\u043C\u0438\u044F\\source\\repos\\WindowsFormsApp12\\WindowsFormsApp12\\User.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "RelativeToolTip": "WindowsFormsApp12\\User.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-20T05:33:26.029Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+              "WhenOpened": "2026-10-20T05:33:26.029Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Datacontext.cs",
               "DocumentMoniker": "C:\\Users\\\u041C\u0430\u043B\u0430\u044F \u0430\u043A\u0430\u0434\u0435\u043C\u0438\u044F\\source\\repos\\WindowsFormsApp12\\WindowsFormsApp12\\DataContext\\Datacontext.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp12\\DataContext\\Datacontext.cs",
               "ToolTip": "C:\\Users\\\u041C\u0430\u043B\u0430\u044F \u0430\u043A\u0430\u0434\u0435\u043C\u0438\u044F\\source\\repos\\WindowsFormsApp12\\WindowsFormsApp12\\DataContext\\Datacontext.cs",
               "RelativeToolTip": "WindowsFormsApp12\\DataContext\\Datacontext.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAA8wBwAAAA0AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-20T05:19:40.79Z",
               "EditorCaption": ""
@@ -75,8 +73,7 @@
               "ToolTip": "C:\\Users\\\u041C\u0430\u043B\u0430\u044F \u0430\u043A\u0430\u0434\u0435\u043C\u0438\u044F\\source\\repos\\WindowsFormsApp12\\WindowsFormsApp12\\Login.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "RelativeToolTip": "WindowsFormsApp12\\Login.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-13T05:26:26.254Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+              "WhenOpened": "2026-10-13T05:26:26.254Z"
             }
           ]
         }
