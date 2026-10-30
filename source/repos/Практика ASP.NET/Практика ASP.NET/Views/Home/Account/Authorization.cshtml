@@ -1,0 +1,17 @@
+﻿@{
+    ViewData["Title"] = "Authorization";
+}
+@section AuthorizationStyle {
+    <link rel="stylesheet" href="~/css/AuthorizationSheet.css" asp-append-version="true" />
+}
+< form method="post">
+<h1>Авторизация</h1>
+<p>Логин</p>
+<input type="text" name="login"/>
+<p>Пароль</p>
+<input type="password" name="password"/>
+<p>Почта</p>
+<input type="email" name="email">
+<button>Авторизация</button>
+<button>Войти как гость</button>
+</>

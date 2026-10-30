@@ -1,0 +1,31 @@
+﻿@{
+    ViewData["Title"] = "Catalog";
+}
+@model IEnumerable<Product>
+<h1>каталог</h1>
+<p>Игры</p>
+@section CatalogStyle {
+    <link rel="stylesheet" href="~/css/CatalogSheet.css" asp-append-version="true" />
+}
+<table class="table">
+    <thead>
+        <tr>
+            <th>Название</th>
+            <th>Цена</th>
+            <th>Вес</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var product in Model)
+        {
+            <tr>
+                <td>@product.Name</td>
+                <td>@product.Price</td>
+                <td>@product.Weight</td>
+                <td>
+                    <a asp-action="Details" asp-route-id="@product.Id">Подробнее</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
