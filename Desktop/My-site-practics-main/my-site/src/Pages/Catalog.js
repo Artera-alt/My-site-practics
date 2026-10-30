@@ -8,7 +8,7 @@ function Catalog() {
   })
   return (
     <ul>
-      {data.map(game => <li key={game.Name}>{game.Price} — {game.Weight}{game.Release_Date}</li>)}
+      {data.map(game => <li key={game.id}>{game.Name}  {game.Price}  {game.Weight}  {game.Release_Date}</li>)}
     </ul>
   );
 }
