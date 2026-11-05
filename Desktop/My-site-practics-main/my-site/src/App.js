@@ -7,6 +7,7 @@ import Workforce from './Pages/Workforce';
 import Home from './Pages/HomePage';
 import Regist from './Regist/Regist';
 import Login from './Regist/Login';
+import Profile from './Pages/Profile';
 
 function App() {
   return (
@@ -19,6 +20,8 @@ function App() {
         <Link to ="/Catalog">Каталог</Link>
         {" "}
         <Link to ="/Workforce">Сотрудники</Link>
+        {" "}
+        <Link to ="/Profile">Личный Кабинет</Link>
       </nav>
       <Routes>
         <Route path="/" element={<Home />} /> 
@@ -28,13 +31,14 @@ function App() {
         <Route path ="/Workforce" element ={<Workforce/>}></Route>
         <Route path ='/regist' element ={<Regist/>}></Route>
         <Route path ='/Login' element ={<Login/>}></Route>
+        <Route path='/Profile' element ={<Profile/>}></Route>
       </Routes>
       <Link to ="/regist">Зарегистрироваться</Link>
       {" "}
       <Link to ="/Login">Войти в аккаунт</Link>
-    <footer>
+      <footer>
       © 2026 GameforGamers
-    </footer>
+      </footer>
     </div>
     
   );
