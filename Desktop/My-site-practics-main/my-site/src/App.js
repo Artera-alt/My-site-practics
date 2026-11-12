@@ -9,6 +9,8 @@ import Regist from './Regist/Regist';
 import Login from './Regist/Login';
 import Profile from './Pages/Profile';
 
+
+
 function App() {
   return (
     <div>

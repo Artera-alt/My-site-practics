@@ -5,11 +5,11 @@ function Regist()
 <form action="" method="get" class="form-example">
   <h1>Регистрация</h1>
   <div class="form-example">
-    <label for="name">login: </label>
+    <label for="username">login: </label>
     <input type="text" name="name" id="name" required />
   </div>
   <div class="form-example">
-    <label for="name">Password: </label>
+    <label for="Password">Password: </label>
     <input type="password" name="password" id="password" required />
   </div>
   <div class="form-example">
