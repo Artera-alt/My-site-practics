@@ -1,7 +1,7 @@
 ﻿@{
     ViewData["Title"] = "Workforce";
 }
-@model IEnumerable<Product>
+@model IEnumerable<Workforce>
 @section WorkersStyle {
     <link rel="stylesheet" href="~/css/WorkersSheet.css" asp-append-version="true" />
 }
@@ -18,8 +18,8 @@
         @foreach (var Workforce in Model)
         {
             <tr>
-                <td>@Workforce.</td>
-                <td>@Workforce.WorkerRole</td>
+                <td>@Workforce.FullName</td>
+                <td>@Workforce.workerRole</td>
                 <td>
                     <a asp-action="Details" asp-route-id="@Workforce.Id">Подробнее</a>
                 </td>

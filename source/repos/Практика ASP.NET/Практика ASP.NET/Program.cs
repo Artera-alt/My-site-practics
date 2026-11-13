@@ -7,6 +7,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 
 builder.Services.AddScoped<ProductRepository>();
+builder.Services.AddScoped<WorkforceRepository>();
 
 var app = builder.Build();
 

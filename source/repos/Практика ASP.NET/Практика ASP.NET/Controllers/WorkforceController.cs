@@ -6,12 +6,12 @@ namespace Практика_ASP.NET.Controllers
     {
         private readonly WorkforceRepository _repository;
 
-        public WorkforceRepository(WorkforceRepository repository)
+        public WorkforceController(WorkforceRepository repository)
         {
             _repository = repository;
         }
 
-        public async Task<IActionResult> Index()
+        public async Task<IActionResult> Workforce()
         {
             var Workforce = await _repository.GetWorkforceAsync();
             return View(Workforce);

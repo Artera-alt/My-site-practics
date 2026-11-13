@@ -53,18 +53,13 @@ namespace Практика_ASP.NET.Controllers
                     {
                         if (await reader.ReadAsync())
                         {
-                            return new Workforce(id, FullName, WorkerRole)
-                            {
-                                Id = reader.GetInt32(0),
-                                FullName = reader.GetString(1),
-                                WorkerRole WorkerRole = (WorkerRole)Enum.Parse(typeof(WorkerRole),reader.GetString(2)),
-                            };
+                        return new Workforce(id, FullName, WorkerRole);
                         }
                         return null;
                     }
                 }
-
             }
-        }
     }
+}
+
 

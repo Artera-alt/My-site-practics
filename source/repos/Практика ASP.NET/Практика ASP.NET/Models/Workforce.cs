@@ -14,6 +14,13 @@
             CEO,
             Frontend,
             Backend,
+            Fullstack,
+            QA,
+            DevOps,
+            Designer,
+            ProjectManager,
+            HR,
+
         }
 
         public int Id { get; set; }
