@@ -1,15 +1,29 @@
 ﻿@{
     ViewData["Title"] = "Workforce";
 }
+@model IEnumerable<Product>
 @section WorkersStyle {
     <link rel="stylesheet" href="~/css/WorkersSheet.css" asp-append-version="true" />
 }
 <h1>Штат Сотрудников</h1>
 <p>Сотрудники:</p>
-<ul>
-    <li>Андрей Андреевич  Генеральный директор</li>
-    <li>Дмитрий дмитриевич Менеджер</li>
-    <li>Олег Олегович Дизайнер</li>
-    <li>Диана Диановна Frontend разработчик</li>
-    <li>Анна Аннавна Backend разработчик</li>
-</ul>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Имя</th>
+            <th>Должность</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var Workforce in Model)
+        {
+            <tr>
+                <td>@Workforce.</td>
+                <td>@Workforce.WorkerRole</td>
+                <td>
+                    <a asp-action="Details" asp-route-id="@Workforce.Id">Подробнее</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

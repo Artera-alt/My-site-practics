@@ -21,12 +21,16 @@
       "PackagePath": "staticwebassets\\css\\ContacsSheet.css"
     },
     {
-      "Id": "C:\\Users\\Малая академия\\source\\repos\\Практика ASP.NET\\Практика ASP.NET\\wwwroot\\css\\ProfileSheet1.css",
-      "PackagePath": "staticwebassets\\css\\ProfileSheet1.css"
+      "Id": "C:\\Users\\Малая академия\\source\\repos\\Практика ASP.NET\\Практика ASP.NET\\wwwroot\\css\\IndexSheet.css",
+      "PackagePath": "staticwebassets\\css\\IndexSheet.css"
     },
     {
-      "Id": "C:\\Users\\Малая академия\\source\\repos\\Практика ASP.NET\\Практика ASP.NET\\wwwroot\\css\\StyleSheet.css",
-      "PackagePath": "staticwebassets\\css\\StyleSheet.css"
+      "Id": "C:\\Users\\Малая академия\\source\\repos\\Практика ASP.NET\\Практика ASP.NET\\wwwroot\\css\\PrivacySheet.css",
+      "PackagePath": "staticwebassets\\css\\PrivacySheet.css"
+    },
+    {
+      "Id": "C:\\Users\\Малая академия\\source\\repos\\Практика ASP.NET\\Практика ASP.NET\\wwwroot\\css\\ProfileSheet.css",
+      "PackagePath": "staticwebassets\\css\\ProfileSheet.css"
     },
     {
       "Id": "C:\\Users\\Малая академия\\source\\repos\\Практика ASP.NET\\Практика ASP.NET\\wwwroot\\css\\WorkersSheet.css",

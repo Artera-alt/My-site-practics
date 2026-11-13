@@ -4,7 +4,6 @@ using System;
 using Практика_ASP.NET.Models;
 using System.Data.SqlClient;
 using Microsoft.AspNetCore.Mvc;
-using AspNetCore;
 using System.Security.Cryptography.X509Certificates;
 
 namespace Практика_ASP.NET.Controllers
